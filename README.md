@@ -10,6 +10,24 @@ This repository contains fully tested, idempotent SQL scripts, complete schemas,
 
 ---
 
+## 🏆 Certifications & Skill Badges
+
+### HackerRank SQL (Basic) Certification
+- **Recipient**: Arush Gupta
+- **Issued By**: HackerRank
+- **Certificate ID**: `AFB65EDCF7BC`
+- **Date of Achievement**: 22 Nov, 2026
+- **Certificate Asset**: [`hackerrank_certificate.jpg`](hackerrank_certificate.jpg) | [`hackerrank_certificate.pdf`](hackerrank_certificate.pdf)
+- **Direct Verification URL**: [https://www.hackerrank.com/certificates/afb65edcf7bc](https://www.hackerrank.com/certificates/afb65edcf7bc)
+
+<p align="center">
+  <a href="https://www.hackerrank.com/certificates/afb65edcf7bc" target="_blank">
+    <img src="hackerrank_certificate.jpg" alt="HackerRank SQL (Basic) Certificate - Arush Gupta" width="750"/>
+  </a>
+</p>
+
+---
+
 ## 📚 Table of Experiments
 
 | Experiment | Title | Core Concepts | Script / Diagram Link |
@@ -33,6 +51,8 @@ This repository contains fully tested, idempotent SQL scripts, complete schemas,
 DBMS_LAB_EXPERIMENTS/
 ├── .gitignore                          # Standard git ignore definitions
 ├── README.md                           # Master laboratory documentation (this file)
+├── hackerrank_certificate.jpg          # HackerRank SQL (Basic) Certification badge (Image)
+├── hackerrank_certificate.pdf          # HackerRank SQL (Basic) Certification badge (PDF)
 │
 ├── EXPERIMENT_01/                      # Experiment 1: ER Diagram & Logical Database Design
 │   ├── Experiment 1 draw.io.png        # High-resolution ER diagram design asset
